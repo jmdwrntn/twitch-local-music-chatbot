@@ -1,8 +1,8 @@
-# Twitch Local Now Playing Bot
+# Twitch Local Music Chatbot
 
 ## Description
 
-Twitch chat bot made in Python, based on this [tutorial](https://dev.to/ninjabunny9000/let-s-make-a-twitch-bot-with-python-2nd8), that responds to a !song command by reading a local text file exported from your music player of choice.
+Twitch chatbot made in Python, based on this [tutorial](https://dev.to/ninjabunny9000/let-s-make-a-twitch-bot-with-python-2nd8), that responds to a !song command by reading a local text file exported from your music player of choice.
 
 Originally created to work with the MusicBee plugin [Now Playing to External Files](https://www.getmusicbee.com/addons/plugins/47/now-playing-to-external-files/), though it would likely work plugins for other players such as [Snip](https://github.com/dlrudie/Snip/), [Tuna](https://obsproject.com/forum/resources/tuna.843/), [NowPlaying](https://github.com/jakobbsm/NowPlaying) etc. These have not been tested and some configuration of the bot and the plugin outputs may be required.
 
